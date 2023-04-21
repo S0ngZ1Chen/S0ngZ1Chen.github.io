@@ -1,0 +1,5 @@
+http://example.com/2023/04/21/test2/
+http://example.com/2023/04/21/songzichen/
+http://example.com/2023/04/21/test-1/
+http://example.com/2023/04/21/hello-world/
+http://example.com/
