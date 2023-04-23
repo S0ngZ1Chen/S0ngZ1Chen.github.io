@@ -1,5 +1,7 @@
-http://example.com/2023/04/21/test2/
-http://example.com/2023/04/21/songzichen/
-http://example.com/2023/04/21/test-1/
-http://example.com/2023/04/21/hello-world/
-http://example.com/
+https://tridiamond.tech/post/test-2.html
+https://tridiamond.tech/about/index.html
+https://tridiamond.tech/post/test2.html
+https://tridiamond.tech/post/songzichen.html
+https://tridiamond.tech/post/test-1.html
+https://tridiamond.tech/post/hello-world.html
+https://tridiamond.tech/
