@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://tridiamond.tech/post/The-Web-Aims-To-Show-Our-Data.html</loc>
+    <loc>https://tridiamond.tech/about/index.html</loc>
     
     <lastmod>2023-05-05</lastmod>
     
@@ -11,9 +11,9 @@
   </url>
   
   <url>
-    <loc>https://tridiamond.tech/about/index.html</loc>
+    <loc>https://tridiamond.tech/post/The-Web-Aims-To-Show-Our-Data.html</loc>
     
-    <lastmod>2023-04-23</lastmod>
+    <lastmod>2023-05-05</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -27,6 +27,13 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://tridiamond.tech/tags/README/</loc>
+    <lastmod>2023-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   
