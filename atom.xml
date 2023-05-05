@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SongZiChen&#39;s Web</title>
+  
+  <subtitle>Learn &amp; Create</subtitle>
+  <link href="https://tridiamond.tech/atom.xml" rel="self"/>
+  
+  <link href="https://tridiamond.tech/"/>
+  <updated>2023-05-05T08:57:44.846Z</updated>
+  <id>https://tridiamond.tech/</id>
+  
+  <author>
+    <name>C1yde_SongZiChen</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>The Web Aims To Show Our Data</title>
+    <link href="https://tridiamond.tech/post/The-Web-Aims-To-Show-Our-Data.html"/>
+    <id>https://tridiamond.tech/post/The-Web-Aims-To-Show-Our-Data.html</id>
+    <published>2023-05-05T08:57:44.000Z</published>
+    <updated>2023-05-05T08:57:44.846Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
